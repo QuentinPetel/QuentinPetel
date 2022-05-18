@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Quentin
 
 <!--
 **QuentinPetel/QuentinPetel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working as an independant JS developper at https://it-era.dev.
+
+You could find a résumé (kind of) at https://quentinpetel.fr
+
+<a href="https://github.com/QuentinPetel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=QuentinPetel&count_private=true&show_icons=true&theme=prussian" alt="Quentin's GitHub Stats" />
+</a>
