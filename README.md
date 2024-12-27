@@ -20,5 +20,5 @@ I'm currently working as an independant JS developper at https://it-era.dev.
 You could find a résumé (kind of) at https://quentinpetel.fr
 
 <a href="https://github.com/QuentinPetel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=QuentinPetel&count_private=true&show_icons=true&theme=prussian" alt="Quentin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-quentinpetels-projects.vercel.app/api?username=QuentinPetel&count_private=true&show_icons=true&theme=prussian" alt="Quentin's GitHub Stats" />
 </a>
