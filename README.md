@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I live in a terminal. I'm currently working as an independant developer at https://it-era.dev.
+I live in a terminal.
 
 You could find a résumé (kind of) at https://quentinpetel.fr
+
+I'm currently working as an independant developer at https://it-era.dev.
 
 <a href="https://github.com/QuentinPetel">
   <img align="center" src="https://github-readme-stats-quentinpetels-projects.vercel.app/api?username=QuentinPetel&count_private=true&show_icons=true&theme=prussian" alt="Quentin's GitHub Stats" />
