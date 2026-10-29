@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working as an independant developer at https://it-era.dev. I live in a terminal.
+I live in a terminal. I'm currently working as an independant developer at https://it-era.dev.
 
 You could find a résumé (kind of) at https://quentinpetel.fr
 
